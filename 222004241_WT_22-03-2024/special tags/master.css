@@ -1,0 +1,47 @@
+body{
+  font-family: cursive;
+
+}
+nav{
+  padding-left: 30%;
+  background-color: #ddd;
+  padding-top: 10px;
+}
+a{
+  text-decoration: none;
+}
+.active{
+  color: lime;
+}
+section{
+  position: absolute;
+  left: 13%;
+  text-align: center;
+}
+table{
+  margin-left: 50px;
+}
+button{
+  border: none;
+  width: 60%;
+  height: 30px;
+  background-color: #04AA6D;
+  border-radius: 15px;
+}
+input[type=text], input[type=number]{
+  border: none;
+  background: #ddd;
+  width: auto;
+  height: 30px;
+  width: 170px;
+  padding-left: 20px;
+
+}
+select{
+ border: none;
+ background: #ddd;
+ width: auto;
+ height: 30px;
+ width: 190px;
+ padding-left: 20px;
+}
